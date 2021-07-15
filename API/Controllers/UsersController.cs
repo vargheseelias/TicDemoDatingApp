@@ -35,12 +35,12 @@ namespace API.Controllers
 
         }
 
-        //api/users/3--->fetching 3rd users details
+        
         [HttpGet("{username}")]
         public async Task<ActionResult<MemberDto>> GetUser(string username)
         {
             return await _userRepository.GetMemberAsync(username);
-           
+
         }
 
 
