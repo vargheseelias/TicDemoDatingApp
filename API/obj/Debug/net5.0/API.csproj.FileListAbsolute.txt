@@ -64,4 +64,3 @@ C:\Users\Thomsun\Desktop\demo\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityM
 C:\Users\Thomsun\Desktop\demo\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
 C:\Users\Thomsun\Desktop\demo\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\Thomsun\Desktop\demo\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Thomsun\Desktop\demo\DatingApp\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
