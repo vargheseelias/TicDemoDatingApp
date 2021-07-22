@@ -32,7 +32,7 @@ namespace API.Data
         }
 
         public async Task<PagedList<MemberDto>> GetMembersAsync(UserParms userParms)
-        {
+        { 
             var query = _context.Users.AsQueryable();
             query=query.Where(u => u.UserName != userParms.CurrentUsername);
             query=query.Where(u => u.Gender == userParms.Gender);
